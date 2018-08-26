@@ -1,0 +1,159 @@
+.dropdownwrap{
+			height:430px;
+			width:1340px;
+			float:left;
+			margin: -145px 30px 0px 3px;
+			background-color:#434343;
+			line-height:50px;
+			padding:0px 02px;
+			position:relative;
+			display:none;
+			border:2px solid #000000;
+	
+	
+			}
+			.dropdownwrap1{
+			height:600px;
+			width:1340px;
+			float:left;
+			margin: -145px 30px 0px 3px;
+			background-color:#434343;
+			line-height:50px;
+			padding:0px 02px;
+			position:relative;
+			display:none;
+			border:2px solid #000000;
+	
+	
+			}
+			.dropdownwrap2{
+			height:700px;
+			width:1340px;
+			float:left;
+			margin: -152px 30px 0px 3px;
+			background-color:#434343;
+			line-height:50px;
+			padding:0px 02px;
+			position:relative;
+			display:none;
+			border:2px solid #000000;
+	
+	
+			}
+			.dropdownwrap3{
+			height:370px;
+			width:1340px;
+			float:left;
+			margin: -152px 30px 0px 3px;
+			background-color:#434343;
+			line-height:50px;
+			padding:0px 02px;
+			position:relative;
+			display:none;
+			border:2px solid #000000;
+	
+	
+			}
+			.dropdownwrap4{
+			height:370px;
+			width:1340px;
+			float:left;
+			margin: -152px 30px 0px 3px;
+			background-color:#434343;
+			line-height:50px;
+			padding:0px 02px;
+			position:relative;
+			display:none;
+			border:2px solid #000000;
+	
+	
+			}
+			.dropdownwrap5{
+			height:370px;
+			width:1340px;
+			float:left;
+			margin: -152px 30px 0px 3px;
+			background-color:#434343;
+			line-height:50px;
+			padding:0px 02px;
+			position:relative;
+			display:none;
+			border:2px solid #000000;
+	
+	
+			}
+			
+			
+				.container{
+			width:100%;
+			float:left;
+			}
+
+	.container h2{
+			width:100%;
+			float:left;
+			padding:40px 0px;
+			margin:0;
+			text-align:center;
+			font-family: 'Patrick Hand SC', cursive;
+			font-size:36px;
+			color:#434343;
+			}
+			div.buttons{
+						
+		position:relative;						
+		text-shadow: 0px 2px 0px rgba(0, 0, 0, 0.3);
+		font-size: 22px;
+		height: 99.2px;
+		width: 145px;
+		margin: 0px -0px 0px 40px;
+		overflow: hidden;
+		text-align: center;
+		line-height: 18px;
+		float:left;
+		padding:0px px px 0px;
+		
+		
+
+				}
+				
+				/*Hover Effect in Menu*/
+				
+	div.buttons:hover{
+		margin-top: 1px;
+ 
+  
+		  /*Rounded Corners*/
+		-webkit-border-radius: 50px;
+		-moz-border-radius: 4px;
+		border-radius: 2px;
+		 
+		/*Shadow*/
+		-webkit-box-shadow: 0px 6px 0px rgba(0, 0, 0, 0.8);
+		-moz-box-shadow: 0px 6px 0px rgba(0, 0, 0, 0.8);
+		box-shadow: 0px 6px 0px rgba(0, 0, 0, 0.8);
+		 
+		/*Gradient*/
+		background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.2));
+		background-image: -moz-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.2));
+		background-image: -o-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.2));
+		background-image: -ms-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.2));
+		background-image: linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.2));
+		  
+		   
+		 /*Shadow*/
+		  -webkit-box-shadow: 0px 4px 0px rgba(0, 0, 0, 0.8);
+		  -moz-box-shadow: 0px 4px 0px rgba(0, 0, 0, 0.8);
+		  box-shadow: 20px 20px 10px rgba(0, 0, 0, 0.8);
+		   
+		 /*Gradient*/
+		  background-image: -webkit-linear-gradient(bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4));
+		  background-image: -moz-linear-gradient(bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4));
+		  background-image: -o-linear-gradient(bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4));
+		  background-image: -ms-linear-gradient(bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4));
+		  background-image: linear-gradient(bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4));
+		}
+							
+		}
+		
+	
